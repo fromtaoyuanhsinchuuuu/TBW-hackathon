@@ -19,3 +19,7 @@ This project aims to solve key issues in asset liquidity and management:
 - **For Lenders**: Enjoy passive income from secure, blockchain-backed rentals.
 
 ---
+
+## Hackmd Links
+https://hackmd.io/jjAoLxiIR3yfiFSudgdPUg
+
