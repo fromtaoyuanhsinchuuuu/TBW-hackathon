@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "programs/rwa_to_nft", # 添加智能合約子項目
+    "tests",               # 測試目錄
+    "app"                  # 前端相關目錄（如有需要）
+]
+
+[profile.release]
+overflow-checks = true
+lto = "fat"                # 啟用鏈接時優化
+codegen-units = 1          # 降低編譯碎片數
+opt-level = 3              # 最大優化級別
+incremental = false        # 禁用增量編譯
+

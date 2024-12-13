@@ -1,0 +1,19 @@
+[programs.localnet]
+rwa_to_nft = "Fg6PaFpoGXkYsidMpWTK6W2BeZzYdYoKHE8xG73bRCPk"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "anchor test"
+deploy = "anchor deploy"
+
+[workspace]
+members = [
+    "programs/rwa_to_nft"
+]
+

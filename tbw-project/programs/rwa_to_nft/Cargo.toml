@@ -1,0 +1,16 @@
+[package]
+name = "rwa_to_nft"
+version = "0.1.0"
+description = "A Solana program for converting real-world assets (RWA) to NFTs."
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+anchor-lang = "0.30.0" # Anchor 框架核心庫
+anchor-spl = "0.30.0"  # 用於與 SPL Token 標準交互的支持
+
+[features]
+default = []
+
