@@ -1,4 +1,4 @@
-# AssetFi: Revolutionizing Idle Asset Management with NFTs
+# AssetFi: Bridging Real-World Assets with DeFi through NFTs
 
 AssetFi is an innovative platform that bridges the gap between real-world assets (RWA) and blockchain technology. By tokenizing idle assets into NFTs, AssetFi unlocks liquidity, creates new investment opportunities, and introduces a decentralized marketplace for seamless asset management.
 
@@ -13,7 +13,6 @@ AssetFi enables users to transform their real-world assets into blockchain-based
 1. Waste of idle physical assets.
 2. High costs and inefficiency in acquiring short-term items without purchase.
 3. Businesses’ need for immediate monetization of inventory.
-4. Hedging against time-sensitive asset depreciation risks.
 
 **Potential Impact**  
 - Businesses can pledge inventory to secure cash flow.
